@@ -2,183 +2,183 @@
   "posts": [
     {
       "id": 0,
-      "Title": "Hello World 0",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem This is just a small text that sais nothing important at all because of whatever happens in this world ",
+      "Title": "The Who",
+      "excerpt": "The Who are an English rock band formed in London in 1964. Their classic lineup consisted of lead singer Roger Daltrey, guitarist and singer Pete Townshend, ...",
+      "content": "The Who are an English rock band formed in London in 1964. Their classic lineup consisted of lead singer Roger Daltrey, guitarist and singer Pete Townshend, bass guitarist and singer John Entwistle, and drummer Keith Moon. They are considered one of the most influential rock bands of the 20th century, and have sold over 100 million records worldwide. Their contributions to rock music include the development of the Marshall Stack, large PA systems, the use of the synthesizer, Entwistle and Moon's influential playing styles, Townshend's feedback and power chord guitar technique, and the development of the rock opera. They are cited as an influence by many hard rock, punk rock, power pop and mod bands, and their songs are still regularly played. The Who were inducted into the Rock and Roll Hall of Fame in 1990.",
       "image": "https://i.pinimg.com/474x/d2/5d/af/d25dafd1cb09ed60bb63087db7d6eae5.jpg",
       "imageXL": "https://i.pinimg.com/474x/d2/5d/af/d25dafd1cb09ed60bb63087db7d6eae5.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 1,
-      "Title": "Hello World 1",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "The Beatles",
+      "excerpt": "The Beatles were an English rock band, formed in Liverpool in 1960, that comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr.      ",
+      "content": "The Beatles were an English rock band, formed in Liverpool in 1960, that comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band of all time[1] and were integral to the development of 1960s counterculture and popular music's recognition as an art form.[2] Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways; the band later explored music styles ranging from ballads and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+      "image": "https://i.pinimg.com/564x/27/f1/cb/27f1cb76ff29d90e4049e23cbc4389a1.jpg",
+      "imageXL": "https://i.pinimg.com/564x/27/f1/cb/27f1cb76ff29d90e4049e23cbc4389a1.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 2,
-      "Title": "Hello World 2",
-      "excerpt": "2 This is just a small text that sais nothing  just a small text that sais nothing important at  is just a small text that sais nothing  just a small text that sais nothing important at  important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "The Rolling Stones",
+      "excerpt": "The Rolling Stones are an English rock band formed in London in 1962. Active for six decades, they are one of the most popular and enduring bands of the ...",
+      "content": "The Rolling Stones are an English rock band formed in London in 1962. Active for six decades, they are one of the most popular and enduring bands of the rock era. In the early 1960s, the Rolling Stones pioneered the gritty, heavier-driven sound that came to define hard rock. Their first stable line-up consisted of vocalist Mick Jagger, multi-instrumentalist Brian Jones, guitarist Keith Richards, bassist Bill Wyman, and drummer Charlie Watts. During their formative years, Jones was the primary leader: he assembled the band, named it, and drove their sound and image. After Andrew Loog Oldham became the group's manager in 1963, he encouraged them to write their own songs. Jagger and Richards became the primary creative force behind the band, alienating Jones, who had developed a drug addiction that interfered with his ability to contribute meaningfully.",
+      "image": "https://i.pinimg.com/564x/72/9c/01/729c01e201d7571e21b2025159b82e79.jpg",
+      "imageXL": "https://i.pinimg.com/564x/72/9c/01/729c01e201d7571e21b2025159b82e79.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 3,
-      "Title": "Hello World 3",
-      "excerpt": "This is just a small text that sais nothing important at all bs is  s is just a small text that sais nothing imp a small text that sais nothing impecause of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Motörhead",
+      "excerpt": "Motörhead were an English rock band formed in London in 1975 by Lemmy (lead vocals, bass), Larry Wallis (guitar) and Lucas Fox (drums). Lemmy was also the ...",
+      "content": "Motörhead (/ˈmoʊtərhɛd/) were an English rock band formed in London in 1975 by Lemmy (lead vocals, bass), Larry Wallis (guitar) and Lucas Fox (drums). Lemmy was also the primary songwriter and only constant member. The band are often considered a precursor to the new wave of British heavy metal, which re-energised heavy metal in the late 1970s and early 1980s.[1] Though several guitarists and drummers have played in Motörhead, most of their best-selling albums and singles feature drummer Phil Philthy Animal Taylor and guitarist Fast Eddie Clarke. ",
+      "image": "https://i.pinimg.com/564x/8e/7f/3f/8e7f3f99bda697bb39005221d00fe6b2.jpg",
+      "imageXL": "https://i.pinimg.com/564x/8e/7f/3f/8e7f3f99bda697bb39005221d00fe6b2.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 4,
-      "Title": "Hello World 4",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Audioslave",
+      "excerpt": "Audioslave was an American rock supergroup formed in Glendale, California, in 2001. The four-piece band consisted of Soundgarden's lead singer and rhythm ...",
+      "content": "Audioslave was an American rock supergroup formed in Glendale, California, in 2001. The four-piece band consisted of Soundgarden's lead singer and rhythm guitarist Chris Cornell with Rage Against the Machine members Tom Morello (lead guitar), Tim Commerford (bass/backing vocals), and Brad Wilk (drums). Critics first described Audioslave as a combination of Soundgarden and Rage Against the Machine, but by the band's second album, Out of Exile, it was noted that they had established a separate identity.[1] Their unique sound was created by blending 1970s hard rock and 1990s alternative rock, with musical influences that included 1960s funk, soul and R&B. As with Rage Against the Machine, the band prided themselves on the fact that all sounds on their albums were produced using only guitars, bass, drums, and vocals, with emphasis on Cornell's wide vocal range and Morello's unconventional guitar solos.",
+      "image": "https://i.pinimg.com/564x/81/12/41/811241cc70abf45d3de9f91e12d82d55.jpg",
+      "imageXL": "https://i.pinimg.com/564x/81/12/41/811241cc70abf45d3de9f91e12d82d55.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 5,
-      "Title": "Hello World 5",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Metallica",
+      "excerpt": "Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles by vocalist/guitarist James Hetfield and drummer Lars Ulrich and has ...",
+      "content": "Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles by vocalist/guitarist James Hetfield and drummer Lars Ulrich and has been based in San Francisco for most of its career.[1][2] The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding big four bands of thrash metal, alongside Megadeth, Anthrax, and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo. Guitarist Dave Mustaine (who formed Megadeth after being fired from the band) and bassists Ron McGovney, Cliff Burton, and Jason Newsted are former members of the band.",
+      "image": "https://i.pinimg.com/564x/32/2b/56/322b56b3cb4d1ecaef5b05a44936f8db.jpg",
+      "imageXL": "https://i.pinimg.com/564x/32/2b/56/322b56b3cb4d1ecaef5b05a44936f8db.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 6,
-      "Title": "Hello World 6",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Nirvana",
+      "excerpt": "Nirvana was an American rock band formed in Aberdeen, Washington, in 1987. Founded by lead singer and guitarist Kurt Cobain and bassist Krist Novoselic, ...",
+      "content": "Nirvana was an American rock band formed in Aberdeen, Washington, in 1987. Founded by lead singer and guitarist Kurt Cobain and bassist Krist Novoselic, the band went through a succession of drummers, most notably Chad Channing, before recruiting Dave Grohl in 1990. Nirvana's success popularized alternative rock, and they were often referenced as the figurehead band of Generation X. Their music maintains a popular following and continues to influence modern rock cultureIn the late 1980s, Nirvana established itself as part of the Seattle grunge scene, releasing its first album, Bleach, for the independent record label Sub Pop in 1989. They developed a sound that relied on dynamic contrasts, often between quiet verses and loud, heavy choruses. After signing to major label DGC Records in 1991, Nirvana found unexpected mainstream success with Smells Like Teen Spirit, the first single from their landmark second album Nevermind (1991). A cultural phenomenon of the 1990s, Nevermind was certified Diamond by the RIAA and is credited for ending the dominance of hair metal.",
+      "image": "https://i.pinimg.com/564x/ad/6e/17/ad6e17cb06a31da1dd1e19a384d54723.jpg",
+      "imageXL": "https://i.pinimg.com/564x/ad/6e/17/ad6e17cb06a31da1dd1e19a384d54723.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 7,
-      "Title": "Hello World 7",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "AC/DC",
+      "excerpt": "AC/DC (stylised as ACϟDC) are an Australian rock band formed in Sydney in 1973 by Scottish-born brothers Malcolm and Angus Young.",
+      "content": "AC/DC (stylised as ACϟDC) are an Australian rock band formed in Sydney in 1973 by Scottish-born brothers Malcolm and Angus Young.[1] Their music has been variously described as hard rock, blues rock, and heavy metal,[2] but the band themselves call it simply rock and roll.[3]AC/DC underwent several line-up changes before releasing their first album, 1975's High Voltage. Membership subsequently stabilised around the Young brothers, singer Bon Scott, drummer Phil Rudd, and bassist Mark Evans. Evans was fired from the band in 1977 and replaced by Cliff Williams, who has appeared on every AC/DC album since 1978's Powerage. In February 1980, about seven months after the release of their breakthrough album Highway to Hell, Scott died of acute alcohol poisoning after a night of heavy drinking.[4] AC/DC considered disbanding, but at Scott's family's request, the remaining members opted to continue the band, bringing in longtime Geordie vocalist Brian Johnson as Scott's replacement.[5] Later that year, the band released their first album with Johnson, Back in Black, which was dedicated to Scott's memory. The album launched AC/DC to new heights of success and became one of the best selling albums of all time.",
+      "image": "https://i.pinimg.com/564x/41/6e/e9/416ee96e297b1bbf7636123b21f3046a.jpg",
+      "imageXL": "https://i.pinimg.com/564x/41/6e/e9/416ee96e297b1bbf7636123b21f3046a.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 8,
-      "Title": "Hello World 8",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Lynyrd Skynyrd",
+      "excerpt": "Lynyrd Skynyrd is an American rock band formed in Jacksonville, Florida. The group originally formed as My Backyard in 1964 and comprised Ronnie Van Zant ...",
+      "content": "Lynyrd Skynyrd (LEN-ərd SKIN-ərd)[2] is an American rock band formed in Jacksonville, Florida. The group originally formed as My Backyard in 1964 and comprised Ronnie Van Zant (lead vocalist), Gary Rossington (guitar), Allen Collins (guitar), Larry Junstrom (bass guitar) and Bob Burns (drums). The band spent five years touring small venues under various names and with several lineup changes before deciding on Lynyrd Skynyrd in 1969. The band released its first album in 1973, having settled on a lineup that included bassist Leon Wilkeson, keyboardist Billy Powell and guitarist Ed King. Burns left and was replaced by Artimus Pyle in 1974. King left in 1975 and was replaced by Steve Gaines in 1976. At the height of their fame in the 1970s, the band popularized the Southern rock genre with songs such as Sweet Home Alabama and Free Bird. After releasing five studio albums and one live album, the band's career was abruptly halted on October 20, 1977, when their chartered airplane crashed, killing Van Zant, Steve Gaines, and backup singer Cassie Gaines, and seriously injuring the rest of the band.",
+      "image": "https://i.pinimg.com/564x/c7/dd/fe/c7ddfee8321ddf7f30dc7de1dd66bd68.jpg",
+      "imageXL": "https://i.pinimg.com/564x/c7/dd/fe/c7ddfee8321ddf7f30dc7de1dd66bd68.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 9,
-      "Title": "Hello World 9",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Eagles",
+      "excerpt": "The Eagles are an American rock band formed in Los Angeles in 1971. With five number-one singles and six number-one albums, six Grammy Awards and five ...",
+      "content": "The Eagles are an American rock band formed in Los Angeles in 1971. With five number-one singles and six number-one albums, six Grammy Awards and five American Music Awards, the Eagles were one of the most successful musical acts of the 1970s in North America. Founding members Glenn Frey (guitars, vocals), Don Henley (drums, vocals), Bernie Leadon (guitars, vocals), and Randy Meisner (bass guitar, vocals) were recruited by Linda Ronstadt as band members, some touring with her, and all playing on her third solo album, before venturing out on their own on David Geffen's new Asylum Records label.",
+      "image": "https://i.pinimg.com/736x/6a/1a/72/6a1a726a6ec9c06f0481018e05f5540f.jpg",
+      "imageXL": "https://i.pinimg.com/736x/6a/1a/72/6a1a726a6ec9c06f0481018e05f5540f.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 10,
-      "Title": "Hello World 10",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Led Zeppelin",
+      "excerpt": "Led Zeppelin were an English rock band formed in London in 1968. The group consisted of vocalist Robert Plant, guitarist Jimmy Page, bassist/keyboardist ...",
+      "content": "Led Zeppelin were an English rock band formed in London in 1968. The group consisted of vocalist Robert Plant, guitarist Jimmy Page, bassist/keyboardist John Paul Jones, and drummer John Bonham. With a heavy, guitar-driven sound, they are cited as one of the progenitors of hard rock and heavy metal, although their style drew from a variety of influences, including blues and folk music. Led Zeppelin have been credited as significantly impacting the nature of the music industry, particularly in the development of album-oriented rock (AOR) and stadium rock.",
+      "image": "https://i.pinimg.com/564x/72/42/2b/72422b5c89c74c0e6200220513c21cd2.jpg",
+      "imageXL": "https://i.pinimg.com/564x/72/42/2b/72422b5c89c74c0e6200220513c21cd2.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 11,
-      "Title": "Hello World 11",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Pink Floyd",
+      "excerpt": "Pink Floyd are an English rock band formed in London in 1965. Gaining an early following as one of the first British psychedelic groups, ...",
+      "content": "Pink Floyd are an English rock band formed in London in 1965. Gaining an early following as one of the first British psychedelic groups, they were distinguished by their extended compositions, sonic experimentation, philosophical lyrics and elaborate live shows. They became a leading band of the progressive rock genre, cited by some as the greatest progressive rock band of all time.Pink Floyd were founded in 1965 by Syd Barrett (guitar, lead vocals), Nick Mason (drums), Roger Waters (bass guitar, vocals), and Richard Wright (keyboards, vocals). Under Barrett's leadership, they released two charting singles and the successful debut album The Piper at the Gates of Dawn (1967). Guitarist and vocalist David Gilmour joined in December 1967; Barrett left in April 1968 due to deteriorating mental health. Waters became the primary lyricist and thematic leader, devising the concepts behind the band's peak success with the albums The Dark Side of the Moon (1973), Wish You Were Here (1975), Animals (1977) and The Wall (1979). The musical film based on The Wall, Pink Floyd – The Wall (1982), won two BAFTA Awards. Pink Floyd also composed several film scores.",
+      "image": "https://i.pinimg.com/564x/93/9f/0d/939f0d19e67e32a699b94d9bfa43febf.jpg",
+      "imageXL": "https://i.pinimg.com/564x/93/9f/0d/939f0d19e67e32a699b94d9bfa43febf.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 12,
-      "Title": "Hello World 12",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Guns N' Roses",
+      "excerpt": "Guns N' Roses is an American hard rock band from Los Angeles, California, formed in 1985. When they signed to Geffen Records in 1986, the band comprised ...",
+      "content": "Guns N' Roses[a] is an American hard rock band from Los Angeles, California, formed in 1985. When they signed to Geffen Records in 1986, the band comprised vocalist Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler. The current lineup consists of Rose, Slash, McKagan, guitarist Richard Fortus, drummer Frank Ferrer and keyboardists Dizzy Reed and Melissa Reese.",
+      "image": "https://i.pinimg.com/564x/e0/78/83/e07883d07e0e332cb41f87ace3b027b7.jpg",
+      "imageXL": "https://i.pinimg.com/564x/e0/78/83/e07883d07e0e332cb41f87ace3b027b7.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 13,
-      "Title": "Hello World 13",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Black Sabbath",
+      "excerpt": "Black Sabbath were an English rock band formed in Birmingham in 1968 by guitarist Tony Iommi, drummer Bill Ward, bassist Geezer Butler and vocalist Ozzy ...",
+      "content": "Black Sabbath were an English rock band formed in Birmingham in 1968 by guitarist Tony Iommi, drummer Bill Ward, bassist Geezer Butler and vocalist Ozzy Osbourne. They are often cited as pioneers of heavy metal music.[1] The band helped define the genre with releases such as Black Sabbath (1970), Paranoid (1970) and Master of Reality (1971). The band had multiple line-up changes following Osbourne's departure in 1979 and Iommi is the only constant member throughout their history.After previous iterations of the group – the Polka Tulk Blues Band and Earth – the band settled on the name Black Sabbath in 1969. They distinguished themselves through occult themes with horror-inspired lyrics and down-tuned guitars. Signing to Philips Records in November 1969, they released their first single, Evil Woman, in January 1970, and their debut album, Black Sabbath, was released the following month. Though it received a negative critical response, the album was a commercial success, leading to a follow-up record, Paranoid, later that year. The band's popularity grew, and by 1973's Sabbath Bloody Sabbath, critics were starting to respond favourably.",
+      "image": "https://i.pinimg.com/564x/89/a8/71/89a871614895378a1128fee06b9b7b29.jpg",
+      "imageXL": "https://i.pinimg.com/564x/89/a8/71/89a871614895378a1128fee06b9b7b29.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 14,
-      "Title": "Hello World 14",
-      "excerpt": "2 This is just a small text that sais nothing  just a small text that sais nothing important at  is just a small text that sais nothing  just a small text that sais nothing important at  important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Deep Purple",
+      "excerpt": "Deep Purple are an English rock band formed in London in 1968. ... They are considered to be among the pioneers of heavy metal and modern hard rock, but their ...",
+      "content": "Deep Purple are an English rock band formed in London in 1968.[3] They are considered to be among the pioneers of heavy metal and modern hard rock,[4][5] but their musical approach has changed over the years.[6] Originally formed as a psychedelic rock and progressive rock band, they shifted to a heavier sound with their 1970 album Deep Purple in Rock.[7] Deep Purple, together with Led Zeppelin and Black Sabbath, have been referred to as the unholy trinity of British hard rock and heavy metal in the early to mid- seventies.[8] They were listed in the 1975 Guinness Book of World Records as the globe's loudest band for a 1972 concert at London's Rainbow Theatre[9][10] and have sold over 100 million albums worldwide.",
+      "image": "https://i.pinimg.com/564x/33/b5/4b/33b54b7d018115b800736ef31aa6c64a.jpg",
+      "imageXL": "https://i.pinimg.com/564x/33/b5/4b/33b54b7d018115b800736ef31aa6c64a.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 15,
-      "Title": "Hello World 15",
-      "excerpt": "This is just a small text that sais nothing important at all bs is  s is just a small text that sais nothing imp a small text that sais nothing impecause of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "The Jimi Hendrix Experience",
+      "excerpt": "The Jimi Hendrix Experience (often shortened to The Experience) was a band comprising guitarist/singer/songwriter Jimi Hendrix, bassist/backing ...",
+      "content": "The Jimi Hendrix Experience (often shortened to The Experience) was a band comprising guitarist/singer/songwriter Jimi Hendrix, bassist/backing vocalist/songwriter Noel Redding, and drummer/backing vocalist Mitch Mitchell. Formed in London, England in October 1966 by ex-Animals bassist Chas Chandler, The Experience were active for just under three years, a run which resulted in three successful studio albums and four top 10 singles.",
+      "image": "https://i.pinimg.com/564x/85/63/42/856342e4a67ec6abc115302b4909b101.jpg",
+      "imageXL": "https://i.pinimg.com/564x/85/63/42/856342e4a67ec6abc115302b4909b101.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 16,
-      "Title": "Hello World 16",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem This is just a small text that sais nothing important at all because of whatever happens in this world ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Green Day",
+      "excerpt": "Green Day is an American rock band formed in the East Bay of California in 1987 by lead vocalist and guitarist Billie Joe Armstrong, together with bassist ...",
+      "content": "Green Day is an American rock band formed in the East Bay of California in 1987 by lead vocalist and guitarist Billie Joe Armstrong, together with bassist and backing vocalist Mike Dirnt. For most of the band's career, they have been a power trio[1] with drummer Tré Cool, who replaced John Kiffmeyer in 1990 before the recording of the band's second studio album, Kerplunk (1991). Touring guitarist Jason White became a full-time member in 2012, but returned to his touring role in 2016. Before taking its current name in 1989, Green Day was called Sweet Children, and they were part of the late 1980s/early 1990s Bay Area punk scene that emerged from the 924 Gilman Street club in Berkeley, California. The band's early releases were with the independent record label Lookout! Records. In 1994, their major-label debut Dookie, released through Reprise Records, became a breakout success and eventually shipped over 10 million copies in the U.S. Alongside fellow California punk bands Bad Religion, the Offspring, Rancid, and Social Distortion, Green Day is credited with popularizing mainstream interest in punk rock in the U.S.",
+      "image": "https://i.pinimg.com/564x/42/46/76/424676f4ef6659313b9d368fd68c7def.jpg",
+      "imageXL": "https://i.pinimg.com/564x/42/46/76/424676f4ef6659313b9d368fd68c7def.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     },
     {
       "id": 17,
-      "Title": "Hello World 17",
-      "excerpt": "This is just a small text that sais nothing important at all because of whatever happens in this world",
-      "content": "lorem ",
-      "image": "https://picsum.photos/500/500",
-      "imageXL": "https://picsum.photos/1920/1080",
+      "Title": "Dire Straits",
+      "excerpt": "Dire Straits were a British rock band formed in London in 1977 by Mark Knopfler David Knopfler John Illsley and Pick Withers (drums and percussion).",
+      "content": "Dire Straits were a British rock band formed in London in 1977 by Mark Knopfler (lead vocals and lead guitar), David Knopfler (rhythm guitar and backing vocals), John Illsley (bass guitar and backing vocals) and Pick Withers (drums and percussion). They were active from 1977 to 1988 and again from 1990 to 1995.[2]Their first single, Sultans of Swing, from their 1978 self-titled debut album, reached the top ten in the UK and US charts. It was followed by hit singles including Romeo and Juliet (1981), Private Investigations (1982), Twisting by the Pool (1983), Money for Nothing (1985), and Walk of Life (1985).[3] Their most commercially successful album, Brothers in Arms (1985), has sold more than 30 million copies; it was the first album to sell a million copies on compact disc[4][5] and is the eighth-bestselling album in UK history. According to the Guinness Book of British Hit Albums, Dire Straits have spent over 1,100 weeks on the UK albums chart, the fifth most of all time",
+      "image": "https://i.pinimg.com/564x/92/1f/8c/921f8c610f9e5b426e6a6b5012ced3f2.jpg",
+      "imageXL": "https://i.pinimg.com/564x/92/1f/8c/921f8c610f9e5b426e6a6b5012ced3f2.jpg",
       "author": "Mouloud Messad",
-      "Date": "2020-06-11T12:50-0500"
+      "date": "2020-06-11T12:50-0500"
     }
   ],
   "newsLetter": [
